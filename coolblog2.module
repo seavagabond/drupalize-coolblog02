@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Coolblog2 feature.
+ */
+
+include_once 'coolblog2.features.inc';
